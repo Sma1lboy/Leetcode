@@ -31,7 +31,6 @@ public class Detect_Capital {
                 break;
             }
         }
-        //TODO TEST HERE
         if (case3) {
             return true;
         }
