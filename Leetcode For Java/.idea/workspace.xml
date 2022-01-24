@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Defanging_an_IP_Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Running_Sum_of_1d_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Running_Sum_of_1d_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Defanging_an_IP_Address">
     <configuration name="Defanging_an_IP_Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
