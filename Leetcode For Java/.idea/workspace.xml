@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd" />
+=======
+    <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd">
+      <change afterPath="$PROJECT_DIR$/src/Kids_With_the_Greatest_Number_of_Candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Leetcode/Richest_Customer_Wealth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode For Java/Defanging_an_IP_Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode For Java/Defanging_an_IP_Address.class" afterDir="false" />
+    </list>
+>>>>>>> aecf5318e6705ce25777cb421dd5b101baf8b63e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,14 +42,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Number_of_Good_Pairs">
-    <configuration name="Defanging_an_IP_Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Defanging_an_IP_Address" />
+  <component name="RunManager" selected="Application.Kids_With_the_Greatest_Number_of_Candies">
+    <configuration name="Kids_With_the_Greatest_Number_of_Candies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kids_With_the_Greatest_Number_of_Candies" />
       <module name="Leetcode For Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies" />
         <item itemvalue="Application.Number_of_Good_Pairs" />
         <item itemvalue="Application.Shuffle_the_Array" />
         <item itemvalue="Application.Running_Sum_of_1d_Array" />
         <item itemvalue="Application.Maximum_Number_of_Words_Found_in_Sentences" />
-        <item itemvalue="Application.Defanging_an_IP_Address" />
       </list>
     </recent_temporary>
   </component>
