@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd">
-      <change afterPath="$PROJECT_DIR$/src/Number_of_Good_Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shuffle_the_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode For Java/Defanging_an_IP_Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode For Java/Defanging_an_IP_Address.class" afterDir="false" />
-    </list>
+    <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643003130289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="srd">
+      <created>1643078057241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643078057241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="srd">
+      <created>1643078063740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643078063740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
