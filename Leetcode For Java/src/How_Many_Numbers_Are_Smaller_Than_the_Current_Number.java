@@ -1,0 +1,2 @@
+package PACKAGE_NAME;public class How_Many_Numbers_Are_Smaller_Than_the_Current_Number {
+}
