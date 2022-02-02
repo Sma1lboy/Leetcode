@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Decompress_Run_Length_Encoded_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Richest_Customer_Wealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Richest_Customer_Wealth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24BvR8TUfXqvZbV1P0TvRWtyDEE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +39,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Decompress_Run_Length_Encoded_List">
+    <configuration name="Decompress_Run_Length_Encoded_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decompress_Run_Length_Encoded_List" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number" />
       <module name="Leetcode" />
@@ -47,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Decompress_Run_Length_Encoded_List" />
         <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number" />
       </list>
     </recent_temporary>
