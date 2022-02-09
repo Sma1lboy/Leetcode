@@ -10,6 +10,8 @@ public class Number_of_Good_Pairs {
             }
         }
         return goodPair;
+
+        
     }
 
     public static void main(String[] args) {
