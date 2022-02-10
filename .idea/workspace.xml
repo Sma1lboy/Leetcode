@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Create_Target_Array_in_the_Given_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Steps_to_Reduce_a_Number_to_Zero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Good_Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Good_Pairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Decompress_Run_Length_Encoded_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Decompress_Run_Length_Encoded_List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Two_Sum">
+  <component name="RunManager" selected="Application.Create_Target_Array_in_the_Given_Order">
+    <configuration name="Create_Target_Array_in_the_Given_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Create_Target_Array_in_the_Given_Order" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Decompress_Run_Length_Encoded_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decompress_Run_Length_Encoded_List" />
       <module name="Leetcode" />
@@ -53,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Number_of_Steps_to_Reduce_a_Number_to_Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number_of_Steps_to_Reduce_a_Number_to_Zero" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Two_Sum" />
       <module name="Leetcode" />
@@ -62,6 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Create_Target_Array_in_the_Given_Order" />
+        <item itemvalue="Application.Number_of_Steps_to_Reduce_a_Number_to_Zero" />
         <item itemvalue="Application.Two_Sum" />
         <item itemvalue="Application.Decompress_Run_Length_Encoded_List" />
         <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number" />
