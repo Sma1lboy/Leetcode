@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Create_Target_Array_in_the_Given_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Steps_to_Reduce_a_Number_to_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Goal_Parser_Interpretation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Palindromic_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/XOR_Operation_in_an_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Create_Target_Array_in_the_Given_Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Create_Target_Array_in_the_Given_Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Create_Target_Array_in_the_Given_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Create_Target_Array_in_the_Given_Order.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +41,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Create_Target_Array_in_the_Given_Order">
+  <component name="RunManager" selected="Application.Search_Insert_Position">
     <configuration name="Create_Target_Array_in_the_Given_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Create_Target_Array_in_the_Given_Order" />
       <module name="Leetcode" />
@@ -47,29 +51,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Decompress_Run_Length_Encoded_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Decompress_Run_Length_Encoded_List" />
+    <configuration name="Goal_Parser_Interpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Goal_Parser_Interpretation" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number" />
+    <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Palindromic_Substring" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_Steps_to_Reduce_a_Number_to_Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_of_Steps_to_Reduce_a_Number_to_Zero" />
+    <configuration name="Search_Insert_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_Insert_Position" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two_Sum" />
+    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Valid_Parentheses" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Search_Insert_Position" />
+        <item itemvalue="Application.Valid_Parentheses" />
+        <item itemvalue="Application.Goal_Parser_Interpretation" />
+        <item itemvalue="Application.Longest_Palindromic_Substring" />
         <item itemvalue="Application.Create_Target_Array_in_the_Given_Order" />
-        <item itemvalue="Application.Number_of_Steps_to_Reduce_a_Number_to_Zero" />
-        <item itemvalue="Application.Two_Sum" />
-        <item itemvalue="Application.Decompress_Run_Length_Encoded_List" />
-        <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number" />
       </list>
     </recent_temporary>
   </component>
