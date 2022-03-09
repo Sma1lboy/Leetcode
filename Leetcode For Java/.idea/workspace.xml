@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd">
-      <change afterPath="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_to_Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode For Java/Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode For Java/Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +41,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Reverse_Integer">
-    <configuration name="Kids_With_the_Greatest_Number_of_Candies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kids_With_the_Greatest_Number_of_Candies" />
-      <module name="Leetcode For Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.String_to_Integer">
     <configuration name="Longest_Substring_Without_Repeating_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Longest_Substring_Without_Repeating_Characters" />
       <module name="Leetcode For Java" />
@@ -79,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_to_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_to_Integer" />
+      <module name="Leetcode For Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_to_Integer" />
         <item itemvalue="Application.Reverse_Integer" />
         <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_Characters" />
         <item itemvalue="Application.Shuffle_String" />
-        <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643078063740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="srd">
+      <created>1646798101943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646798101943</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
