@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7576d5b-2266-4191-95a9-7c52edc6f01b" name="Changes" comment="srd">
-      <change afterPath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Leetcode/Search_Insert_Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Leetcode/Search_Insert_Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode For Java/Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode For Java/Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Longest_Substring_Without_Repeating_Characters">
+  <component name="RunManager" selected="Application.Reverse_Integer">
     <configuration name="Kids_With_the_Greatest_Number_of_Candies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kids_With_the_Greatest_Number_of_Candies" />
       <module name="Leetcode For Java" />
@@ -59,8 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_Good_Pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_of_Good_Pairs" />
+    <configuration name="Median_of_Two_Sorted_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Median_of_Two_Sorted_Arrays" />
+      <module name="Leetcode For Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_Integer" />
       <module name="Leetcode For Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffle_the_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shuffle_the_Array" />
-      <module name="Leetcode For Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Integer" />
+        <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_Characters" />
         <item itemvalue="Application.Shuffle_String" />
         <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies" />
-        <item itemvalue="Application.Number_of_Good_Pairs" />
-        <item itemvalue="Application.Shuffle_the_Array" />
       </list>
     </recent_temporary>
   </component>
