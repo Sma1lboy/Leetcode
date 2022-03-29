@@ -1,9 +1,10 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Remove_Duplicates_from_Sorted_Array {
-    public static int removeDuplicates(int[] nums) {
-
+        public static int removeDuplicates(int[] nums) {
         int temp = nums[0];
         int k = 1;
         ArrayList<Integer> tempList = new ArrayList<>();
@@ -21,10 +22,9 @@ public class Remove_Duplicates_from_Sorted_Array {
         for (int i = k; i < nums.length; i++) {
             nums[i] = 0;
         }
-
         return k;
-
     }
+
 
     public static void main(String[] args) {
         int[] nums = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};

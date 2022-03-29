@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Container_With_Most_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Implement_strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Common_Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_Two_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Sorting_the_Sentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,16 +53,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Remove_Duplicates_from_Sorted_Array">
-    <configuration name="Goal_Parser_Interpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Goal_Parser_Interpretation" />
+  <component name="RunManager" selected="Application.Sorting_the_Sentence">
+    <configuration name="Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Container_With_Most_Water" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Palindromic_Substring" />
+    <configuration name="Longest_Common_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Common_Prefix" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Valid_Parentheses" />
+    <configuration name="Sorting_the_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting_the_Sentence" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sorting_the_Sentence" />
         <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array" />
+        <item itemvalue="Application.Longest_Common_Prefix" />
+        <item itemvalue="Application.Container_With_Most_Water" />
         <item itemvalue="Application.Search_Insert_Position" />
-        <item itemvalue="Application.Valid_Parentheses" />
-        <item itemvalue="Application.Goal_Parser_Interpretation" />
-        <item itemvalue="Application.Longest_Palindromic_Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -105,5 +120,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sorting_the_Sentence.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
