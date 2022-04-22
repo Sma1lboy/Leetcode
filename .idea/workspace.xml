@@ -10,8 +10,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode For Java/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode For Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Palindromic_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Sorting_the_Sentence">
+  <component name="RunManager" selected="Application.Longest_Palindromic_Substring">
     <configuration name="Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Container_With_Most_Water" />
       <module name="Leetcode" />
@@ -68,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Remove_Duplicates_from_Sorted_Array" />
+    <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Palindromic_Substring" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Insert_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_Insert_Position" />
+    <configuration name="Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remove_Duplicates_from_Sorted_Array" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Palindromic_Substring" />
         <item itemvalue="Application.Sorting_the_Sentence" />
         <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array" />
         <item itemvalue="Application.Longest_Common_Prefix" />
         <item itemvalue="Application.Container_With_Most_Water" />
-        <item itemvalue="Application.Search_Insert_Position" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
