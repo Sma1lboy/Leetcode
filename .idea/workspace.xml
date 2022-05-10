@@ -2,44 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/SqrtX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Guess_Number_Higher_or_Lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Container_With_Most_Water.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Container_With_Most_Water.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Create_Target_Array_in_the_Given_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Create_Target_Array_in_the_Given_Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Decompress_Run_Length_Encoded_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Decompress_Run_Length_Encoded_List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Defanging_an_IP_Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Defanging_an_IP_Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Detect_Capital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Detect_Capital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Goal_Parser_Interpretation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Goal_Parser_Interpretation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Implement_strStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Implement_strStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Jewels_and_Stones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Jewels_and_Stones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Kids_With_the_Greatest_Number_of_Candies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Kids_With_the_Greatest_Number_of_Candies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Common_Prefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Common_Prefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Palindromic_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Maximum_Number_of_Words_Found_in_Sentences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Maximum_Number_of_Words_Found_in_Sentences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Median_of_Two_Sorted_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Median_of_Two_Sorted_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Merge_Two_Sorted_Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Merge_Two_Sorted_Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Number_of_Good_Pairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Number_of_Good_Pairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Number_of_Steps_to_Reduce_a_Number_to_Zero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Number_of_Steps_to_Reduce_a_Number_to_Zero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/ParkingSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/ParkingSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Reverse_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Reverse_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Richest_Customer_Wealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Richest_Customer_Wealth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Running_Sum_of_1d_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Running_Sum_of_1d_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Shuffle_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Shuffle_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Shuffle_the_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Shuffle_the_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Sorting_the_Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Sorting_the_Sentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/String_to_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/String_to_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/XOR_Operation_in_an_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/XOR_Operation_in_an_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,22 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.SqrtX">
-    <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Palindromic_Substring" />
+}]]></component>
+  <component name="RunManager" selected="Application.Guess_Number_Higher_or_Lower">
+    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Search" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Remove_Duplicates_from_Sorted_Array" />
+    <configuration name="Guess_Number_Higher_or_Lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guess_Number_Higher_or_Lower" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting_the_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_the_Sentence" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SqrtX" />
       <module name="Leetcode" />
@@ -117,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Guess_Number_Higher_or_Lower" />
+        <item itemvalue="Application.Binary_Search" />
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.SqrtX" />
         <item itemvalue="Application.Remove_Element" />
-        <item itemvalue="Application.Longest_Palindromic_Substring" />
-        <item itemvalue="Application.Sorting_the_Sentence" />
-        <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +109,7 @@
       <workItem from="1651473593072" duration="12000" />
       <workItem from="1651473611336" duration="787000" />
       <workItem from="1651607134154" duration="148000" />
+      <workItem from="1652142281096" duration="5452000" />
     </task>
     <servers />
   </component>
