@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Guess_Number_Higher_or_Lower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Backspace_String_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Count_Sorted_Vowel_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Search_Insert_Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_Insert_Position.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Guess_Number_Higher_or_Lower">
+}</component>
+  <component name="RunManager" selected="Application.Backspace_String_Compare">
+    <configuration name="Backspace_String_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backspace_String_Compare" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_Search" />
       <module name="Leetcode" />
@@ -58,13 +65,6 @@
     </configuration>
     <configuration name="Guess_Number_Higher_or_Lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Guess_Number_Higher_or_Lower" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remove_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Remove_Element" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Backspace_String_Compare" />
         <item itemvalue="Application.Guess_Number_Higher_or_Lower" />
         <item itemvalue="Application.Binary_Search" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.SqrtX" />
-        <item itemvalue="Application.Remove_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +109,8 @@
       <workItem from="1651473593072" duration="12000" />
       <workItem from="1651473611336" duration="787000" />
       <workItem from="1651607134154" duration="148000" />
-      <workItem from="1652142281096" duration="5452000" />
+      <workItem from="1652142281096" duration="6071000" />
+      <workItem from="1652304956863" duration="1937000" />
     </task>
     <servers />
   </component>
@@ -134,6 +135,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sorting_the_Sentence.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Backspace_String_Compare.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/SqrtX.java</url>
