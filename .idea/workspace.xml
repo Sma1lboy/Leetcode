@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_Smallest_Letter_Greater_Than_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_the_Distance_Value_Between_Two_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Perfect_Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/First_Bad_Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Maximum_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Rotate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Squares_of_a_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/SqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/SqrtX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Search_Insert_Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/SqrtX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/SqrtX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Two_Sum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Backspace_String_Compare">
+  <component name="RunManager" selected="Application.Merge_Sorted_Array">
     <configuration name="Backspace_String_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backspace_String_Compare" />
       <module name="Leetcode" />
@@ -74,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SqrtX" />
+    <configuration name="Merge_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge_Sorted_Array" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum" />
+    <configuration name="Rotate_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rotate_Array" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_Sorted_Array" />
+        <item itemvalue="Application.Rotate_Array" />
         <item itemvalue="Application.Backspace_String_Compare" />
         <item itemvalue="Application.Guess_Number_Higher_or_Lower" />
         <item itemvalue="Application.Binary_Search" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.SqrtX" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +119,10 @@
       <workItem from="1652304956863" duration="2199000" />
       <workItem from="1652326348728" duration="3834000" />
       <workItem from="1652369236281" duration="617000" />
-      <workItem from="1652401105777" duration="1015000" />
+      <workItem from="1652401105777" duration="1651000" />
+      <workItem from="1652463632665" duration="904000" />
+      <workItem from="1652511353589" duration="45000" />
+      <workItem from="1652525822483" duration="2292000" />
     </task>
     <servers />
   </component>
@@ -147,6 +152,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Backspace_String_Compare.java</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Rotate_Array.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
