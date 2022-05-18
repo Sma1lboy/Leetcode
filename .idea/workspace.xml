@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Tree_Inorder_Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Count_Negative_Numbers_in_a_Sorted_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Plus_One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Duplicates_from_Sorted_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Reshape_the_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Reverse_Words_in_a_String_three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Same_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Symmetric_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Remove_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Intersection_of_Two_Arrays_two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Intersection_of_Two_Arrays_two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Remove_Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Remove_Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +119,8 @@
       <workItem from="1652511353589" duration="45000" />
       <workItem from="1652525822483" duration="2991000" />
       <workItem from="1652601350120" duration="8630000" />
-      <workItem from="1652747287626" duration="2290000" />
+      <workItem from="1652747287626" duration="3277000" />
+      <workItem from="1652845777071" duration="625000" />
     </task>
     <servers />
   </component>
