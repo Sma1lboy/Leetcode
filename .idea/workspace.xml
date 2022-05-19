@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
       <workItem from="1652525822483" duration="2991000" />
       <workItem from="1652601350120" duration="8630000" />
       <workItem from="1652747287626" duration="3277000" />
-      <workItem from="1652845777071" duration="625000" />
+      <workItem from="1652845777071" duration="2816000" />
     </task>
     <servers />
   </component>
