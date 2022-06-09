@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_the_Winner_of_the_Circular_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Minimum_Remove_to_Make_Valid_Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Count_Negative_Numbers_in_a_Sorted_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Count_Negative_Numbers_in_a_Sorted_Matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,7 @@
       <workItem from="1653180695568" duration="1221000" />
       <workItem from="1653446086252" duration="639000" />
       <workItem from="1653697739684" duration="783000" />
-      <workItem from="1654741141875" duration="23000" />
+      <workItem from="1654741141875" duration="2892000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,11 @@
 public class Min_Stack {
+    /**
+     * The reason why Min_Stack doesn't have default constructor.
+     *
+     * When you provide your own custom constructor java wont provide you default constructor.
+     * This program will work until you create object with constructor with no args like when you do new Node()
+     * this will not work as you have not supplied default constructor.
+     */
     Node head;
     public void push(int val) {
         //TODO have to understand this
