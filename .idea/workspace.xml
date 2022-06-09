@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_Two_Binary_Trees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_in_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/zero_one_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Count_Negative_Numbers_in_a_Sorted_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Count_Negative_Numbers_in_a_Sorted_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jacksonchen/Documents/workspace/Leetcode&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jacksonchen/Documents/Github/Leetcode",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Count_Negative_Numbers_in_a_Sorted_Matrix">
+}]]></component>
+  <component name="RunManager" selected="Application.Merge_Intervals">
     <configuration name="Count_Negative_Numbers_in_a_Sorted_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_Negative_Numbers_in_a_Sorted_Matrix" />
       <module name="Leetcode" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Merge_Sorted_Array" />
+    <configuration name="Merge_Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge_Intervals" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_Intervals" />
         <item itemvalue="Application.Count_Negative_Numbers_in_a_Sorted_Matrix" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Valid_Parentheses" />
         <item itemvalue="Application.Intersection_of_Two_Arrays_two" />
-        <item itemvalue="Application.Merge_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,9 @@
       <workItem from="1652985702907" duration="163000" />
       <workItem from="1653005925315" duration="460000" />
       <workItem from="1653180695568" duration="1221000" />
-      <workItem from="1653446086252" duration="27000" />
+      <workItem from="1653446086252" duration="639000" />
+      <workItem from="1653697739684" duration="783000" />
+      <workItem from="1654741141875" duration="23000" />
     </task>
     <servers />
   </component>
