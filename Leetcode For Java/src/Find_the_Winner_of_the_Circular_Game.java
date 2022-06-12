@@ -11,7 +11,7 @@ public class Find_the_Winner_of_the_Circular_Game {
 //    }
     class Node {
         int val;
-        Node prev;
+        Node prev;  
         Node next;
         Node (int val) {
             this.val = val;

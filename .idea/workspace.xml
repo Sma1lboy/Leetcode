@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_the_Winner_of_the_Circular_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Minimum_Remove_to_Make_Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/birthdayCakeCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Min_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Find_the_Winner_of_the_Circular_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_the_Winner_of_the_Circular_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Guess_Number_Higher_or_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Guess_Number_Higher_or_Lower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -41,19 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jacksonchen/Documents/Github/Leetcode",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacksonchen/Documents/Github/Leetcode&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Merge_Intervals">
     <configuration name="Count_Negative_Numbers_in_a_Sorted_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_Negative_Numbers_in_a_Sorted_Matrix" />
@@ -131,7 +134,12 @@
       <workItem from="1653180695568" duration="1221000" />
       <workItem from="1653446086252" duration="639000" />
       <workItem from="1653697739684" duration="783000" />
-      <workItem from="1654741141875" duration="2892000" />
+      <workItem from="1654741141875" duration="2919000" />
+      <workItem from="1654800872220" duration="193000" />
+      <workItem from="1654801072818" duration="45000" />
+      <workItem from="1654982525205" duration="656000" />
+      <workItem from="1654983252977" duration="781000" />
+      <workItem from="1654984042340" duration="1496000" />
     </task>
     <servers />
   </component>
