@@ -1,19 +1,11 @@
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
+
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
+
 
 /**
  * question form hackerrank
  */
-class birthdayCakeCandles {
+class BirthdayCakeCandles {
 
     /*
      * Complete the 'birthdayCakeCandles' function below.
@@ -30,6 +22,7 @@ class birthdayCakeCandles {
         for(int i = 0; i < len; i++) {
             max = Math.max(candles.get(i), max);
         }
+
         for(int i = 0; i < len; i++) {
             if(max == candles.get(i)) {
                 count++;
@@ -37,5 +30,6 @@ class birthdayCakeCandles {
         }
         return  count;
     }
+
 
 }
