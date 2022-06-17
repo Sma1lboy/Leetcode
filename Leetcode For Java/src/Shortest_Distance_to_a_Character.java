@@ -10,6 +10,6 @@ public class Shortest_Distance_to_a_Character {
             res[i] = Math.min(res[i], pos - i);
         }
         return res;
-    }g
+    }
 
 }
