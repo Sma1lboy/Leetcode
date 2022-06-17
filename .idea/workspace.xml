@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_First_Palindromic_String_in_the_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Flipping_an_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Reverse_Prefix_of_Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +143,7 @@
       <workItem from="1655013739168" duration="2927000" />
       <workItem from="1655134933488" duration="14000" />
       <workItem from="1655325133116" duration="774000" />
-      <workItem from="1655426240338" duration="58000" />
+      <workItem from="1655426240338" duration="682000" />
     </task>
     <servers />
   </component>
