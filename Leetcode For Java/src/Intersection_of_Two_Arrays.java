@@ -1,3 +1,7 @@
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
 public class Intersection_of_Two_Arrays {
     public int[] intersection(int[] n1, int[] n2) {
         Set<Integer> set = new HashSet<>();
