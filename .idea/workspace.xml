@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Cousins_in_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_if_Path_Exists_in_Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/1520b3bf60a35e311f4a54ea51150318/Message/MessageTemp/b9744ba5394b146f4a7cbead17f2f7d8/File/sort.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,20 +53,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jacksonchen/Documents/Github/Leetcode&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GradingStudents">
-    <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GradingStudents" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="Intersection_of_Two_Arrays_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intersection_of_Two_Arrays_two" />
       <module name="Leetcode" />
@@ -70,6 +69,13 @@
     </configuration>
     <configuration name="Merge_Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Merge_Intervals" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remove_All_Adjacent_Duplicates_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remove_All_Adjacent_Duplicates_In_String" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradingStudents" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.Remove_All_Adjacent_Duplicates_In_String" />
         <item itemvalue="Application.Valid_Parentheses" />
         <item itemvalue="Application.Merge_Intervals" />
         <item itemvalue="Application.Intersection_of_Two_Arrays_two" />
@@ -144,6 +150,25 @@
       <workItem from="1655325133116" duration="774000" />
       <workItem from="1655426240338" duration="2326000" />
       <workItem from="1655429052330" duration="14000" />
+      <workItem from="1655444517192" duration="398000" />
+      <workItem from="1655444938863" duration="1078000" />
+      <workItem from="1655476667442" duration="343000" />
+      <workItem from="1655481184532" duration="2372000" />
+      <workItem from="1655486754703" duration="14000" />
+      <workItem from="1655488311927" duration="625000" />
+      <workItem from="1655495329800" duration="8000" />
+      <workItem from="1655588394835" duration="756000" />
+      <workItem from="1655589159237" duration="3719000" />
+      <workItem from="1655674932557" duration="4000" />
+      <workItem from="1655677794091" duration="3218000" />
+      <workItem from="1655696806793" duration="13000" />
+      <workItem from="1655697415677" duration="11000" />
+      <workItem from="1655778793231" duration="1271000" />
+      <workItem from="1655833567795" duration="19000" />
+      <workItem from="1655855336189" duration="138000" />
+      <workItem from="1655856060121" duration="816000" />
+      <workItem from="1655870221122" duration="636000" />
+      <workItem from="1655911507673" duration="711000" />
     </task>
     <servers />
   </component>
@@ -193,6 +218,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/GradingStudents.java</url>
           <line>7</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
