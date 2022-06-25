@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Letter_Combinations_of_a_Phone_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Sum_of_Nodes_with_Even_Valued_Grandparent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Clone_Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Coin_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Non_decreasing_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Top_K_Frequent_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Top_K_Frequent_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Palindromic_Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Find_if_Path_Exists_in_Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Find_if_Path_Exists_in_Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Palindromic_Substring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/RecentCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +66,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Intersection_of_Two_Arrays_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intersection_of_Two_Arrays_two" />
+  <component name="RunManager" selected="Application.Find_Median_from_Data_Stream">
+    <configuration name="Find_Median_from_Data_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Median_from_Data_Stream" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Merge_Intervals" />
+    <configuration name="Non_decreasing_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Non_decreasing_Array" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_Median_from_Data_Stream" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.Non_decreasing_Array" />
         <item itemvalue="Application.Remove_All_Adjacent_Duplicates_In_String" />
         <item itemvalue="Application.Valid_Parentheses" />
-        <item itemvalue="Application.Merge_Intervals" />
-        <item itemvalue="Application.Intersection_of_Two_Arrays_two" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +180,9 @@
       <workItem from="1655936937016" duration="629000" />
       <workItem from="1655999959274" duration="41000" />
       <workItem from="1656000520189" duration="1366000" />
-      <workItem from="1656093549832" duration="30000" />
+      <workItem from="1656093549832" duration="2608000" />
+      <workItem from="1656117894969" duration="2245000" />
+      <workItem from="1656121801126" duration="1905000" />
     </task>
     <servers />
   </component>
@@ -225,9 +234,18 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode For Java/src/test.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Non_decreasing_Array.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
+          <line>28</line>
+          <properties class="MedianFinder" method="addNum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
