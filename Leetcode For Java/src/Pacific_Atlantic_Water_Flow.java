@@ -18,14 +18,16 @@ public class Pacific_Atlantic_Water_Flow {
             dfs(heights, atlantic, Integer.MIN_VALUE, rows - 1, i);
         }
 
-        for (int i = 0; i < rows; i++)
-            for (int j = 0; j < cols; j++)
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
                 if (pacific[i][j] && atlantic[i][j]) {
                     List<Integer> list = new ArrayList<>();
                     list.add(i);
                     list.add(j);
                     res.add(list);
                 }
+            }
+        }
 
         return res;
     }
