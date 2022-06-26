@@ -2,7 +2,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-
+//build adjacentcy_list with edges, run dfs on each V, if while dfs on V we see V again, then loop exists, otherwise V
+// isnt in a loop, 3 states= not visited, visited, still visiting
 public class Course_Schedule {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         //create adjacent list

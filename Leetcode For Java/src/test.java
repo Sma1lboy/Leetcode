@@ -6,17 +6,9 @@ public class test {
 
 
     public static void main(String[] args) {
-        Queue<Double> max = new PriorityQueue<>(Comparator.reverseOrder());
+        char a = 'c';
 
-        PriorityQueue<Integer> min = new PriorityQueue<>(Comparator.reverseOrder());
-        max.offer(1.0);
-        max.offer(3.9);
-        max.offer(2.0);
-        max.offer(3.9);
-        System.out.println(max);
-        while(!max.isEmpty()) {
-            System.out.println(max.poll());
-        }
+        System.out.println(Character.valueOf(a));
 
     }
 }
