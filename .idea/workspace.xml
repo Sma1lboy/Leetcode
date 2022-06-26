@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Design_Add_and_Search_Words_Data_Structure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Repeating_Character_Replacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Islands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,7 @@
       <workItem from="1656131189027" duration="186000" />
       <workItem from="1656131382359" duration="1310000" />
       <workItem from="1656193505348" duration="7750000" />
-      <workItem from="1656271078329" duration="2924000" />
+      <workItem from="1656271078329" duration="3554000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
