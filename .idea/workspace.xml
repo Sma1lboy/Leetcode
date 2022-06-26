@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Implement_Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Set_Matrix_Zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Word_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Course_Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Course_Schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Course_Schedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Course_Schedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Spiral_Matrix">
     <configuration name="Course_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course_Schedule" />
       <module name="Leetcode" />
@@ -87,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_All_Adjacent_Duplicates_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Remove_All_Adjacent_Duplicates_In_String" />
+    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spiral_Matrix" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spiral_Matrix" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Course_Schedule" />
         <item itemvalue="Application.Find_Median_from_Data_Stream" />
         <item itemvalue="Application.Non_decreasing_Array" />
-        <item itemvalue="Application.Remove_All_Adjacent_Duplicates_In_String" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +183,8 @@
       <workItem from="1656130933408" duration="248000" />
       <workItem from="1656131189027" duration="186000" />
       <workItem from="1656131382359" duration="1310000" />
-      <workItem from="1656193505348" duration="3587000" />
+      <workItem from="1656193505348" duration="7750000" />
+      <workItem from="1656271078329" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -259,6 +258,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Non_decreasing_Array.java</url>
           <line>5</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Spiral_Matrix.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
