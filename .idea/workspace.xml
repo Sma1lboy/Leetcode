@@ -63,9 +63,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Queue_Reconstruction_by_Height">
-    <configuration name="Course_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_Schedule" />
+  <component name="RunManager" selected="Application.Minimum_Moves_to_Equal_Array_Elements">
+    <configuration name="Minimum_Moves_to_Equal_Array_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Minimum_Moves_to_Equal_Array_Elements" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Moves_to_Equal_Array_Elements" />
         <item itemvalue="Application.Queue_Reconstruction_by_Height" />
         <item itemvalue="Application.PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Spiral_Matrix" />
-        <item itemvalue="Application.Course_Schedule" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,7 @@
       <workItem from="1656301245540" duration="5000" />
       <workItem from="1656379443071" duration="2938000" />
       <workItem from="1656445461435" duration="3710000" />
-      <workItem from="1656554252753" duration="1565000" />
+      <workItem from="1656554252753" duration="1576000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
