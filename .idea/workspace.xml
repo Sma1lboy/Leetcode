@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Combination_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Merge_k_Sorted_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutations_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Combination_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Combination_sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +192,8 @@
       <workItem from="1656379443071" duration="2938000" />
       <workItem from="1656445461435" duration="3710000" />
       <workItem from="1656554252753" duration="5040000" />
-      <workItem from="1656723258726" duration="2336000" />
+      <workItem from="1656723258726" duration="2994000" />
+      <workItem from="1656803809709" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
