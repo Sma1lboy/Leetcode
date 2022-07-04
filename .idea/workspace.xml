@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Enclaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Subsets_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Jump_games.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Unique_Paths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +193,7 @@
       <workItem from="1656723258726" duration="2994000" />
       <workItem from="1656803809709" duration="3359000" />
       <workItem from="1656889204285" duration="11000" />
-      <workItem from="1656897646617" duration="9000" />
+      <workItem from="1656897646617" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
