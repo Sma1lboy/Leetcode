@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Jump_games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Unique_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Word_Search_two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Minimum_Moves_to_Equal_Array_Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Minimum_Moves_to_Equal_Array_Elements.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Minimum_Moves_to_Equal_Array_Elements_two">
+  <component name="RunManager" selected="Application.Word_Search_two">
     <configuration name="Minimum_Moves_to_Equal_Array_Elements_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Minimum_Moves_to_Equal_Array_Elements_two" />
       <module name="Leetcode" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spiral_Matrix" />
+    <configuration name="Word_Search_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Word_Search_two" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Word_Search_two" />
         <item itemvalue="Application.Minimum_Moves_to_Equal_Array_Elements_two" />
         <item itemvalue="Application.Queue_Reconstruction_by_Height" />
         <item itemvalue="Application.PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Spiral_Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,8 @@
       <workItem from="1656723258726" duration="2994000" />
       <workItem from="1656803809709" duration="3359000" />
       <workItem from="1656889204285" duration="11000" />
-      <workItem from="1656897646617" duration="1567000" />
+      <workItem from="1656897646617" duration="4578000" />
+      <workItem from="1656963389989" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -290,6 +291,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Moves_to_Equal_Array_Elements_two.java</url>
           <line>9</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Word_Search_two.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
