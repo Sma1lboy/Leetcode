@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Nearest_Exit_from_Entrance_in_Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Shortest_Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/All_Paths_From_Source_to_Target.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +195,9 @@
       <workItem from="1656897646617" duration="4578000" />
       <workItem from="1656963389989" duration="299000" />
       <workItem from="1656993500746" duration="1811000" />
-      <workItem from="1657068265580" duration="627000" />
+      <workItem from="1657068265580" duration="1253000" />
+      <workItem from="1657152086760" duration="30000" />
+      <workItem from="1657154192178" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
