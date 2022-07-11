@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Tree_Right_Side_View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Minimum_Window_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Operations_to_Make_Network_Connected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Time_Needed_to_Inform_All_Employees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +200,7 @@
       <workItem from="1657213913001" duration="17000" />
       <workItem from="1657243690313" duration="665000" />
       <workItem from="1657412685813" duration="34000" />
-      <workItem from="1657484683386" duration="2737000" />
+      <workItem from="1657484683386" duration="3578000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -309,6 +302,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Word_Search_two.java</url>
           <line>6</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Move_Pieces_to_Obtain_a_String.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
