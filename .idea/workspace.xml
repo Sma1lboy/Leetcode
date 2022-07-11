@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/All_Paths_From_Source_to_Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Tree_Right_Side_View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Minimum_Window_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Number_of_Operations_to_Make_Network_Connected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Time_Needed_to_Inform_All_Employees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Word_Search_two.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Word_Search_two">
+  <component name="RunManager" selected="Application.Move_Pieces_to_Obtain_a_String">
     <configuration name="Minimum_Moves_to_Equal_Array_Elements_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Minimum_Moves_to_Equal_Array_Elements_two" />
       <module name="Leetcode" />
@@ -70,8 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference" />
+    <configuration name="Minimum_Window_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Minimum_Window_Substring" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Move_Pieces_to_Obtain_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Move_Pieces_to_Obtain_a_String" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,20 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Move_Pieces_to_Obtain_a_String" />
+        <item itemvalue="Application.Minimum_Window_Substring" />
         <item itemvalue="Application.Word_Search_two" />
         <item itemvalue="Application.Minimum_Moves_to_Equal_Array_Elements_two" />
         <item itemvalue="Application.Queue_Reconstruction_by_Height" />
-        <item itemvalue="Application.PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +203,11 @@
       <workItem from="1656993500746" duration="1811000" />
       <workItem from="1657068265580" duration="1253000" />
       <workItem from="1657152086760" duration="30000" />
-      <workItem from="1657154192178" duration="22000" />
+      <workItem from="1657154192178" duration="849000" />
+      <workItem from="1657213913001" duration="17000" />
+      <workItem from="1657243690313" duration="665000" />
+      <workItem from="1657412685813" duration="34000" />
+      <workItem from="1657484683386" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
