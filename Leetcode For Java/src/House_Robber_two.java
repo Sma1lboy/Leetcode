@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class House_Robber_two {
     class Solution {
         public int rob(int[] nums) {
