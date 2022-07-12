@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/house_robber_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/house_robber_one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Partition_to_K_Equal_Sum_Subsets">
-    <configuration name="Minimum_Moves_to_Equal_Array_Elements_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Minimum_Moves_to_Equal_Array_Elements_two" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Shortest_Path_with_Alternating_Colors">
     <configuration name="Minimum_Window_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Minimum_Window_Substring" />
       <module name="Leetcode" />
@@ -91,6 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shortest_Path_with_Alternating_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shortest_Path_with_Alternating_Colors" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Word_Search_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Word_Search_two" />
       <module name="Leetcode" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shortest_Path_with_Alternating_Colors" />
         <item itemvalue="Application.Partition_to_K_Equal_Sum_Subsets" />
         <item itemvalue="Application.Move_Pieces_to_Obtain_a_String" />
         <item itemvalue="Application.Minimum_Window_Substring" />
         <item itemvalue="Application.Word_Search_two" />
-        <item itemvalue="Application.Minimum_Moves_to_Equal_Array_Elements_two" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +203,8 @@
       <workItem from="1657412685813" duration="34000" />
       <workItem from="1657484683386" duration="3578000" />
       <workItem from="1657575405486" duration="1386000" />
+      <workItem from="1657597750586" duration="391000" />
+      <workItem from="1657659993505" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -309,6 +311,11 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Move_Pieces_to_Obtain_a_String.java</url>
           <line>34</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
