@@ -13,6 +13,7 @@ public class house_robber_one {
                 rob2 = temp;
             }
             return Math.max(rob1, rob2);
+
         }
     }
 }
