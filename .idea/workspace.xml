@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Binary_Tree_Level_Order_Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Open_the_Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Water_and_Jug_Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Shortest_Path_with_Alternating_Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Shortest_Path_with_Alternating_Colors.class" afterDir="false" />
-    </list>
+    <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +202,7 @@
       <workItem from="1657575405486" duration="1386000" />
       <workItem from="1657597750586" duration="391000" />
       <workItem from="1657659993505" duration="1842000" />
-      <workItem from="1657669618951" duration="1825000" />
+      <workItem from="1657669618951" duration="2547000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
