@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code" />
+    <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Valid_sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Open_the_Lock">
-    <configuration name="Move_Pieces_to_Obtain_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Move_Pieces_to_Obtain_a_String" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Valid_sudoku">
     <configuration name="Open_the_Lock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Open_the_Lock" />
       <module name="Leetcode" />
@@ -88,6 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Valid_sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Valid_sudoku" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Water_and_Jug_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Water_and_Jug_Problem" />
       <module name="Leetcode" />
@@ -97,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Valid_sudoku" />
         <item itemvalue="Application.Open_the_Lock" />
         <item itemvalue="Application.Water_and_Jug_Problem" />
         <item itemvalue="Application.Shortest_Path_with_Alternating_Colors" />
         <item itemvalue="Application.Partition_to_K_Equal_Sum_Subsets" />
-        <item itemvalue="Application.Move_Pieces_to_Obtain_a_String" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +206,8 @@
       <workItem from="1657597750586" duration="391000" />
       <workItem from="1657659993505" duration="1842000" />
       <workItem from="1657669618951" duration="2547000" />
+      <workItem from="1657832659352" duration="39000" />
+      <workItem from="1657845800749" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -319,6 +324,16 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Open_the_Lock.java</url>
           <line>63</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Valid_sudoku.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Valid_sudoku.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
