@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Maximum_Number_of_Pairs_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Query_Kth_Smallest_Trimmed_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Valid_Parentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Valid_sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Valid_sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +209,8 @@
       <workItem from="1657832659352" duration="39000" />
       <workItem from="1657845800749" duration="1759000" />
       <workItem from="1657950179111" duration="238000" />
-      <workItem from="1658025149130" duration="7539000" />
+      <workItem from="1658025149130" duration="8186000" />
+      <workItem from="1658098136826" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -354,7 +350,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Query_Kth_Smallest_Trimmed_Number.java</url>
-          <line>52</line>
+          <line>51</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
