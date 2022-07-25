@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Count_of_Smaller_Numbers_After_Self.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Daily_Temperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Koko_eating_banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Largest_Rectangle_in_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Pascal_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Reverse_Linked_List_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_a_2D_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_in_Rotated_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Permutation_in_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Permutation_in_String.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,37 +73,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Query_Kth_Smallest_Trimmed_Number">
-    <configuration name="Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
+  <component name="RunManager" selected="Application.Count_of_Smaller_Numbers_After_Self">
+    <configuration name="Count_of_Smaller_Numbers_After_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count_of_Smaller_Numbers_After_Self" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Open_the_Lock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Open_the_Lock" />
+    <configuration name="Koko_eating_banana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Koko_eating_banana" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Query_Kth_Smallest_Trimmed_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Query_Kth_Smallest_Trimmed_Number" />
+    <configuration name="Largest_Rectangle_in_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Largest_Rectangle_in_Histogram" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Valid_Parentheses" />
+    <configuration name="Search_a_2D_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_a_2D_Matrix" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Valid_sudoku" />
+    <configuration name="Search_in_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_in_Rotated_Sorted_Array" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Query_Kth_Smallest_Trimmed_Number" />
-        <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
-        <item itemvalue="Application.Valid_Parentheses" />
-        <item itemvalue="Application.Valid_sudoku" />
-        <item itemvalue="Application.Open_the_Lock" />
+        <item itemvalue="Application.Count_of_Smaller_Numbers_After_Self" />
+        <item itemvalue="Application.Search_in_Rotated_Sorted_Array" />
+        <item itemvalue="Application.Koko_eating_banana" />
+        <item itemvalue="Application.Search_a_2D_Matrix" />
+        <item itemvalue="Application.Largest_Rectangle_in_Histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +221,13 @@
       <workItem from="1657845800749" duration="1759000" />
       <workItem from="1657950179111" duration="238000" />
       <workItem from="1658025149130" duration="8186000" />
-      <workItem from="1658098136826" duration="264000" />
+      <workItem from="1658098136826" duration="2231000" />
+      <workItem from="1658245195866" duration="148000" />
+      <workItem from="1658367263372" duration="533000" />
+      <workItem from="1658375493369" duration="2468000" />
+      <workItem from="1658448434727" duration="961000" />
+      <workItem from="1658452843915" duration="3357000" />
+      <workItem from="1658553779641" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -250,52 +267,52 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sorting_the_Sentence.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Backspace_String_Compare.java</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Rotate_Array.java</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Merge_Sorted_Array.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_Negative_Numbers_in_a_Sorted_Matrix.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/GradingStudents.java</url>
           <line>7</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Non_decreasing_Array.java</url>
           <line>5</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Spiral_Matrix.java</url>
           <line>30</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/PartitioArray_Into_Two_Arrays_to_Minimize_Sum_Difference.java</url>
           <line>54</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Queue_Reconstruction_by_Height.java</url>
           <line>7</line>
           <properties>
@@ -303,55 +320,95 @@
           </properties>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Moves_to_Equal_Array_Elements_two.java</url>
           <line>9</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Word_Search_two.java</url>
           <line>6</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Move_Pieces_to_Obtain_a_String.java</url>
           <line>34</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Water_and_Jug_Problem.java</url>
           <line>2</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Open_the_Lock.java</url>
           <line>63</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Valid_sudoku.java</url>
           <line>96</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Valid_sudoku.java</url>
           <line>90</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Valid_Parentheses.java</url>
           <line>27</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java</url>
           <line>37</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Query_Kth_Smallest_Trimmed_Number.java</url>
           <line>51</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reverse_Linked_List_two.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Daily_Temperatures.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Largest_Rectangle_in_Histogram.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Search_a_2D_Matrix.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Search_in_Rotated_Sorted_Array.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_of_Smaller_Numbers_After_Self.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
@@ -361,6 +418,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Pascal_Triangle.java</url>
+          <line>4</line>
+          <properties class="Pascal_Triangle" method="generate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
