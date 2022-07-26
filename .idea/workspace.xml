@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Count_of_Smaller_Numbers_After_Self.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Daily_Temperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Koko_eating_banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Largest_Rectangle_in_Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Pascal_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Reverse_Linked_List_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_a_2D_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Permutation_in_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Longest_Substring_Without_Repeating_Characters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Permutation_in_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Permutation_in_String.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +32,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/1520b3bf60a35e311f4a54ea51150318/Message/MessageTemp/b9744ba5394b146f4a7cbead17f2f7d8/File/sort.java" root0="SKIP_INSPECTION" />
@@ -228,6 +220,8 @@
       <workItem from="1658448434727" duration="961000" />
       <workItem from="1658452843915" duration="3357000" />
       <workItem from="1658553779641" duration="952000" />
+      <workItem from="1658786665830" duration="708000" />
+      <workItem from="1658805903285" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -243,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656130012332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add some code">
+      <created>1658786712407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658786712407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
