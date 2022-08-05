@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
-      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Longest_Cycle_in_Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,6 +236,8 @@
       <workItem from="1659236459536" duration="1676000" />
       <workItem from="1659279057433" duration="750000" />
       <workItem from="1659320337505" duration="663000" />
+      <workItem from="1659325191763" duration="713000" />
+      <workItem from="1659372375107" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
