@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
+    public static int[] findOrder(int numCourses, int[][] prerequisites) {
         //create the freq map
         HashMap<Integer, List<Integer>> freqMap = new HashMap();
         //initial
@@ -19,7 +19,7 @@ class Solution {
         //res
 
         for(int i = 0; i < numCourses; i++) {
-            if(dfs(i, output, visited, cycle, freqMap) == false) {
+            if(!dfs(i, output, visited, cycle, freqMap)) {
                 return new int[]{};
             }
         }
@@ -29,7 +29,7 @@ class Solution {
         }
         return res;
     }
-    public boolean dfs(int currCourse, List<Integer> output, Set<Integer> visited, Set<Integer> cycle, HashMap<Integer, List<Integer>> map) {
+    public static boolean dfs(int currCourse, List<Integer> output, Set<Integer> visited, Set<Integer> cycle, HashMap<Integer, List<Integer>> map) {
         //check base case cycle
         if(cycle.contains(currCourse)) {
             return false;
@@ -40,7 +40,7 @@ class Solution {
         }
         cycle.add(currCourse);
         for(Integer course : map.get(currCourse)) {
-            if(dfs(course, output, visited, cycle, map) == false) {
+            if(!dfs(course, output, visited, cycle, map)) {
                 return false;
             }
         }
@@ -48,5 +48,9 @@ class Solution {
         visited.add(currCourse);
         output.add(currCourse);
         return true;
+    }
+
+    public static void main(String[] args) {
+        findOrder(2, new int[][]{{1,0}});
     }
 }

@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcd61bc-081a-4b8f-bb95-a8cc896b6385" name="Changes" comment="add some code">
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode For Java/src/Convert_Sorted_Array_to_Binary_Search_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Combination_Sum_two.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Combination_Sum_two.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/1520b3bf60a35e311f4a54ea51150318/Message/MessageTemp/b9744ba5394b146f4a7cbead17f2f7d8/File/sort.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,7 +67,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RunDashboard">
@@ -73,7 +78,21 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Combination_Sum_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Combination_Sum_two" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Convert_Sorted_Array_to_Binary_Search_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Convert_Sorted_Array_to_Binary_Search_Tree" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Count_of_Smaller_Numbers_After_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_of_Smaller_Numbers_After_Self" />
       <module name="Leetcode" />
@@ -81,22 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Koko_eating_banana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Koko_eating_banana" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search_a_2D_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_a_2D_Matrix" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search_in_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_in_Rotated_Sorted_Array" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Convert_Sorted_Array_to_Binary_Search_Tree" />
+        <item itemvalue="Application.Combination_Sum_two" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.Count_of_Smaller_Numbers_After_Self" />
-        <item itemvalue="Application.Search_in_Rotated_Sorted_Array" />
-        <item itemvalue="Application.Koko_eating_banana" />
-        <item itemvalue="Application.Search_a_2D_Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +243,14 @@
       <workItem from="1659320337505" duration="663000" />
       <workItem from="1659325191763" duration="713000" />
       <workItem from="1659372375107" duration="10000" />
+      <workItem from="1659720817982" duration="789000" />
+      <workItem from="1659886681363" duration="2855000" />
+      <workItem from="1659971582447" duration="219000" />
+      <workItem from="1660101318083" duration="1107000" />
+      <workItem from="1660144026536" duration="848000" />
+      <workItem from="1660144908881" duration="694000" />
+      <workItem from="1660146792814" duration="13000" />
+      <workItem from="1660419447884" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -432,6 +445,21 @@
           <line>35</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_two.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Convert_Sorted_Array_to_Binary_Search_Tree.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Course_Schedule_two.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
           <line>28</line>
@@ -452,6 +480,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list.get(0).get(2)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
