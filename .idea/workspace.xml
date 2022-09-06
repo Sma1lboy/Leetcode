@@ -78,37 +78,37 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Min_Cost_to_Connect_All_Points">
-    <configuration name="Amount_of_Time_for_Binary_Tree_to_Be_Infected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Amount_of_Time_for_Binary_Tree_to_Be_Infected" />
+  <component name="RunManager" selected="Application.Sum_of_Subarray_Ranges">
+    <configuration name="Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Next_Greater_Element" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Cost_to_Connect_All_Points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Min_Cost_to_Connect_All_Points" />
+    <configuration name="Reorder_Data_in_Log_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reorder_Data_in_Log_Files" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Network_Delay_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Network_Delay_Time" />
+    <configuration name="Substring_With_Largest_Variance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Substring_With_Largest_Variance" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Redundant_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Redundant_Connection" />
+    <configuration name="Sum_of_Subarray_Ranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_of_Subarray_Ranges" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three_sum" />
+    <configuration name="Sum_of_total_Strength_of_Wizard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_of_total_Strength_of_Wizard" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Min_Cost_to_Connect_All_Points" />
-        <item itemvalue="Application.Amount_of_Time_for_Binary_Tree_to_Be_Infected" />
-        <item itemvalue="Application.Redundant_Connection" />
-        <item itemvalue="Application.Network_Delay_Time" />
-        <item itemvalue="Application.Three_sum" />
+        <item itemvalue="Application.Sum_of_Subarray_Ranges" />
+        <item itemvalue="Application.Next_Greater_Element" />
+        <item itemvalue="Application.Reorder_Data_in_Log_Files" />
+        <item itemvalue="Application.Sum_of_total_Strength_of_Wizard" />
+        <item itemvalue="Application.Substring_With_Largest_Variance" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +264,9 @@
       <workItem from="1661874339434" duration="856000" />
       <workItem from="1661882177613" duration="740000" />
       <workItem from="1662128815415" duration="2547000" />
+      <workItem from="1662145899227" duration="53000" />
+      <workItem from="1662216279829" duration="666000" />
+      <workItem from="1662403280326" duration="6669000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -523,6 +526,36 @@
           <line>12</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Substring_With_Largest_Variance.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Next_Greater_Element.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sum_of_Subarray_Ranges.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
           <line>28</line>
@@ -543,11 +576,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="list.get(0).get(2)" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
