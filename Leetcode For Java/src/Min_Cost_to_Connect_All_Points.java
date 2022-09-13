@@ -13,6 +13,54 @@ public class Min_Cost_to_Connect_All_Points {
         minCostConnectPoints(new int[][]{{0,0},{2,2},{3,10},{5,2},{7,0}});
     }
 
+    /*
+    version 2
+     */
+    //
+    // class Solution {
+    //     public int minCostConnectPoints(int[][] A) {
+    //         int n = A.length;
+    //
+    //         Set<Integer> visited = new HashSet<>();
+    //         //zero to zero always shortest oen
+    //         visited.add(0);
+    //         //distance array to keep tracking distance after updating the shortest one
+    //         int dist[] = new int[n];
+    //         for(int i = 1;i < n; i++) {
+    //             dist[i] = findDist(A, 0, i);
+    //         }
+    //
+    //         int res = 0;
+    //         //make sure check all the points in A array
+    //         while(visited.size() != n) {
+    //             //next shortest line base on current shortest points
+    //             int next = -1;
+    //
+    //             for(int i = 0; i < n; i++) {
+    //                 //if we already visited continue
+    //                 if(visited.contains(i)) continue;
+    //                 if(next == -1 || (dist[next] > dist[i])) next = i;
+    //             }
+    //             //mark curr shortest visited
+    //             visited.add(next);
+    //             //add it into total cost
+    //             res += dist[next];
+    //
+    //             //update current tracking array and DO NOT change the index that already checked
+    //             for(int i = 0; i < n; i++) {
+    //                 if(visited.contains(i)) continue;
+    //                 dist[i] = Math.min(dist[i], findDist(A, next, i));
+    //             }
+    //         }
+    //         return res;
+    //     }
+    //
+    //     private int findDist(int[][] nums, int a, int b) {
+    //         return Math.abs(nums[a][0] - nums[b][0]) + Math.abs(nums[a][1] - nums[b][1]);
+    //     }
+    // }
+
+
     public static int minCostConnectPoints(int[][] points) {
         int n = points.length, res = 0;
 

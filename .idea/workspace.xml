@@ -78,37 +78,37 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sum_of_Subarray_Ranges">
-    <configuration name="Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Next_Greater_Element" />
+  <component name="RunManager" selected="Application.Shortest_Path_with_Alternating_Colors">
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourSum" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reorder_Data_in_Log_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reorder_Data_in_Log_Files" />
+    <configuration name="Longest_Duplicate_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Duplicate_Substring" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring_With_Largest_Variance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Substring_With_Largest_Variance" />
+    <configuration name="Longest_Increasing_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Increasing_Subsequence" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_of_Subarray_Ranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum_of_Subarray_Ranges" />
+    <configuration name="Most_Frequent_Even_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Most_Frequent_Even_Element" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_of_total_Strength_of_Wizard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum_of_total_Strength_of_Wizard" />
+    <configuration name="Shortest_Path_with_Alternating_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shortest_Path_with_Alternating_Colors" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sum_of_Subarray_Ranges" />
-        <item itemvalue="Application.Next_Greater_Element" />
-        <item itemvalue="Application.Reorder_Data_in_Log_Files" />
-        <item itemvalue="Application.Sum_of_total_Strength_of_Wizard" />
-        <item itemvalue="Application.Substring_With_Largest_Variance" />
+        <item itemvalue="Application.Shortest_Path_with_Alternating_Colors" />
+        <item itemvalue="Application.Longest_Duplicate_Substring" />
+        <item itemvalue="Application.FourSum" />
+        <item itemvalue="Application.Longest_Increasing_Subsequence" />
+        <item itemvalue="Application.Most_Frequent_Even_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,19 @@
       <workItem from="1662128815415" duration="2547000" />
       <workItem from="1662145899227" duration="53000" />
       <workItem from="1662216279829" duration="666000" />
-      <workItem from="1662403280326" duration="6669000" />
+      <workItem from="1662403280326" duration="6819000" />
+      <workItem from="1662431207207" duration="24000" />
+      <workItem from="1662469993534" duration="797000" />
+      <workItem from="1662557591118" duration="1495000" />
+      <workItem from="1662585221692" duration="139000" />
+      <workItem from="1662649888192" duration="743000" />
+      <workItem from="1662734466773" duration="2163000" />
+      <workItem from="1662942774085" duration="8000" />
+      <workItem from="1662942792382" duration="913000" />
+      <workItem from="1662949320785" duration="320000" />
+      <workItem from="1663003372916" duration="20000" />
+      <workItem from="1663015407227" duration="3900000" />
+      <workItem from="1663075821603" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -555,6 +567,71 @@
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sum_of_Subarray_Ranges.java</url>
           <line>9</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Health_to_Beat_Game.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Health_to_Beat_Game.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Triangular_Sum_of_an_Array.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Number_of_Moves_to_Make_Palindrome.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/The_Number_of_Weak_Characters_in_the_Game.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Build_Binary_Expression_Tree_From_Infix_Expression.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Most_Frequent_Even_Element.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Increasing_Subsequence.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/FourSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/FourSum.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Duplicate_Substring.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Duplicate_Substring.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>

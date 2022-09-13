@@ -1,85 +1,61 @@
 import java.util.*;
 
+/**
+ * @author Jackson Chen
+ * @version 1.0
+ * @date 2022/9/12
+ */
 public class Shortest_Path_with_Alternating_Colors {
-    //shortest bfs better
+    public static void main(String[] args) {
+        shortestAlternatingPaths(3, new int[][]{{0,1},{1,2}}, new int[][]{});
+    }
     public static int[] shortestAlternatingPaths(int n, int[][] redEdges, int[][] blueEdges) {
-        //build the graph first
-        int[][] graph = new int[n][n];
-        buildGraph(graph, redEdges, blueEdges);
-        int[] res = new int[n];
-        Arrays.fill(res, Integer.MAX_VALUE);
-        //the first one always zero
-        res[0] = 0;
-        //we need the shortest length path
-        int len = 0;
+        //#1 build graph
+        //Map<currNode, List<towardNode, [BlueORRed]>>
+        //BlueOrRed status 0 is red and 1 is blue;\
+        Map<Integer, List<int[]>> map = new HashMap<>();
+        //initial map
+        for(int i = 0; i < n; i++) {
+            map.put(i , new ArrayList<>());
+        }
+        //add red node
+        for(int[] edge : redEdges) {
+            map.get(edge[0]).add(new int[]{edge[1], 0});
+        }
+        //add blue edge node
+        for(int[] edge : blueEdges) {
+            map.get(edge[0]).add(new int[]{edge[1], 1});
+        }
+        int res[] = new int[n];
+        Arrays.fill(res, -1);
+        int distance = 0;
+        //Queue store curr node what we we at
+        Queue<int[]> q = new LinkedList<>();
+        //start at zero
+        q.offer(new int[]{0, 1});
+        q.offer(new int[]{0, 0});
 
-        //normal bfs
-        Queue<int[]> queue = new LinkedList<>();
-        //our queue store [node, color]
-        //because we don't know first node connect to blue edge or red edge so we have to
-        //try both of them with [0, 1] and [0, -1]
-        queue.offer(new int[]{0, 1});
-        queue.offer(new int[]{0, -1});
-        //if the node visited we dont have to visited again
-        Set<String> visited = new HashSet<>();
-
-
-        while(!queue.isEmpty()) {
-            int size = queue.size();
-            len++;
+        while(!q.isEmpty()) {
+            int size = q.size();
+            // traversal to the same level order
             for(int i = 0; i < size; i++) {
-                int[] curr = queue.poll();
-                int node = curr[0];
+                int[] curr = q.poll();
+                int currNode = curr[0];
                 int currColor = curr[1];
-                int oppoColor = -currColor;
-                //now, we should go through every edge in curr node
-                for(int j = 1; j < graph[0].length; j++) {
-                    //if next edge is oppo color or it is both color edge,
-                    //if we haven't visited ye
-                    if(graph[node][j] == oppoColor || graph[node][j] == 0) {
-                        //mark visited
-                        if(!visited.add((j + "" + oppoColor))) {
-                            continue;
-                        }
-                        queue.offer(new int[]{j, oppoColor});
-                        res[j] = Math.min(res[j], len);
+                res[currNode] = distance;
+                //go through blue or red
+                for(int[] nextNode : map.get(currNode)) {
+                    //if it is red
+                    if(currColor == 0 && nextNode[1] == 1) {
+                        q.offer(nextNode);
+                    } else if(currColor == 1 && nextNode[1] == 0){ // if it is blue
+                        q.offer(nextNode);
                     }
                 }
             }
+            distance++;
         }
-        for(int i = 1; i < n; i++) {
-            if(res[i] == Integer.MAX_VALUE) {
-                res[i] = -1;
-            }
-        }
+
         return res;
     }
-    //1 pepersent red, 0 repersent both, -1 repersent blue, maxValue repersent
-    public static void buildGraph(int[][] graph, int[][] redEdges, int[][] blueEdges) {
-        //initial node with non-edge
-        for(int i = 0; i < graph.length; i++) {
-            Arrays.fill(graph[i], Integer.MAX_VALUE);
-        }
-        //go through red edges
-        for(int[] edge : redEdges) {
-            int from = edge[0];
-            int to = edge[1];
-            graph[from][to] = 1;
-        }
-        //go through blue
-        for(int[] edge : blueEdges) {
-            int from = edge[0];
-            int to = edge[1];
-            if(graph[from][to] == 1) {
-                graph[from][to] = 0;
-            } else {
-                graph[from][to] = -1;
-            }
-        }
-    }
-
-
-
-
-
 }
