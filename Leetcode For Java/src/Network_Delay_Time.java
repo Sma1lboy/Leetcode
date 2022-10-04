@@ -6,43 +6,46 @@ import java.util.*;
  * @date 2022/8/30
  */
 public class Network_Delay_Time {
+        //direction graph
+        public int networkDelayTime(int[][] times, int n, int k) {
 
-    public static void main(String[] args) {
-        networkDelayTime(new int[][]{{2,1,1}, {2,3,1}, {3,4,1}}, 4, 2 );
-    }
-        public static int networkDelayTime(int[][] times, int n, int k) {
+            //#1 build the graph
+
+            //map store[currNode, List<int[towordNode, cost]>]
             Map<Integer, List<int[]>> map = new HashMap<>();
-            for(int[] time : times) {
-                map.putIfAbsent(time[0], new ArrayList<>());
-                map.get(time[0]).add(new int[]{time[1], time[2]});
+            for(int i = 1; i <= n; i++) {
+                map.put(i, new ArrayList<>());
+            }
+            for(int[] edge : times) {
+                map.get(edge[0]).add(new int[]{edge[1], edge[2]});
             }
 
-            //store q[node, currTimeCost]
-            Integer[] cost = new Integer[n + 1];
+            Integer[] timeCost = new Integer[n + 1];
+            //queue store[currNode, currTimeCost]
             PriorityQueue<int[]> q = new PriorityQueue<>((a, b) -> a[1] - b[1]);
             q.offer(new int[]{k, 0});
-
+            // int cost = 0;
+            int nodeCnt = 0;
             while(!q.isEmpty()) {
-                int[] c = q.poll();
-
-                int currNode = c[0];
-                int currTimeCost = c[1];
-                if(cost[currNode] != null) continue;
-                cost[currNode] = currTimeCost;
-                for(int[] adjNode : map.get(currNode)) {
-
-                    q.offer(new int[]{adjNode[0], adjNode[1] + currTimeCost});
+                int[] cur = q.poll();
+                int currNode = cur[0];
+                int currDis = cur[1];
+                //check if we already met net curr node
+                if(timeCost[currNode] != null) continue;
+                //if didnt give a time cost
+                timeCost[currNode] = currDis;
+                //check if we already visited all the node
+                //because we are using PriorityQueue the node
+                // I dont really know what's my end node
+                //so I have make sure after I finish all the Node, I could stop here
+                //because base on bfs, it's always shortest come first
+                if(++nodeCnt == n) {
+                    return currDis;
                 }
-
-
+                for(int[] adjNode : map.get(currNode)) {
+                    q.offer(new int[]{adjNode[0], adjNode[1] + currDis});
+                }
             }
-
-            int max = Integer.MIN_VALUE;
-            for(int i = 0; i < cost.length; i++) {
-                if(cost[i] == null) continue;
-                max = Math.max(max, cost[i]);
-            }
-            return max;
+            return -1;
         }
-
 }

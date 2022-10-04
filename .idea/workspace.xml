@@ -42,7 +42,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/1520b3bf60a35e311f4a54ea51150318/Message/MessageTemp/b9744ba5394b146f4a7cbead17f2f7d8/File/sort.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -78,49 +77,55 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Shortest_Path_with_Alternating_Colors">
-    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FourSum" />
+  <component name="RunManager" selected="Application.Depth_of_BST_Given_Insertion_Order">
+    <configuration name="Depth_of_BST_Given_Insertion_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Depth_of_BST_Given_Insertion_Order" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Duplicate_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Duplicate_Substring" />
+    <configuration name="Find_Good_Days_to_Rob_the_Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Good_Days_to_Rob_the_Bank" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Increasing_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Increasing_Subsequence" />
+    <configuration name="Insert_Delete_GetRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insert_Delete_GetRandom" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Most_Frequent_Even_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Most_Frequent_Even_Element" />
+    <configuration name="Longest_Substring_with_At_Most_Two_Distinct_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Substring_with_At_Most_Two_Distinct_Characters" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shortest_Path_with_Alternating_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shortest_Path_with_Alternating_Colors" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
       <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shortest_Path_with_Alternating_Colors" />
-        <item itemvalue="Application.Longest_Duplicate_Substring" />
-        <item itemvalue="Application.FourSum" />
-        <item itemvalue="Application.Longest_Increasing_Subsequence" />
-        <item itemvalue="Application.Most_Frequent_Even_Element" />
+        <item itemvalue="Application.Depth_of_BST_Given_Insertion_Order" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Insert_Delete_GetRandom" />
+        <item itemvalue="Application.Find_Good_Days_to_Rob_the_Bank" />
+        <item itemvalue="Application.Longest_Substring_with_At_Most_Two_Distinct_Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +283,21 @@
       <workItem from="1662949320785" duration="320000" />
       <workItem from="1663003372916" duration="20000" />
       <workItem from="1663015407227" duration="3900000" />
-      <workItem from="1663075821603" duration="637000" />
+      <workItem from="1663075821603" duration="7587000" />
+      <workItem from="1663100910286" duration="644000" />
+      <workItem from="1663179292018" duration="2786000" />
+      <workItem from="1663249815859" duration="1971000" />
+      <workItem from="1663277235051" duration="4000" />
+      <workItem from="1663426449616" duration="7137000" />
+      <workItem from="1663681653466" duration="1257000" />
+      <workItem from="1663697955875" duration="4712000" />
+      <workItem from="1663811849750" duration="880000" />
+      <workItem from="1663889689261" duration="1571000" />
+      <workItem from="1663960616137" duration="1085000" />
+      <workItem from="1664073005654" duration="1375000" />
+      <workItem from="1664240979372" duration="4000" />
+      <workItem from="1664590669738" duration="2203000" />
+      <workItem from="1664891847783" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="add some code">
       <created>1656127083542</created>
@@ -438,202 +457,317 @@
           <line>25</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reverse_Linked_List_two.java</url>
           <line>42</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Daily_Temperatures.java</url>
           <line>19</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Largest_Rectangle_in_Histogram.java</url>
           <line>20</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Search_a_2D_Matrix.java</url>
           <line>25</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Search_in_Rotated_Sorted_Array.java</url>
           <line>35</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_of_Smaller_Numbers_After_Self.java</url>
           <line>83</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/test2.java</url>
           <line>35</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Combination_Sum_two.java</url>
           <line>35</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Convert_Sorted_Array_to_Binary_Search_Tree.java</url>
           <line>25</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Course_Schedule_two.java</url>
           <line>53</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reachable_Nodes_With_Restrictions.java</url>
           <line>11</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reachable_Nodes_With_Restrictions.java</url>
           <line>30</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/target_sum.java</url>
           <line>8</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Median_of_Two_Sorted_Arrays.java</url>
           <line>36</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sliding_Window_Maximum.java</url>
           <line>7</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Three_sum.java</url>
           <line>11</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Network_Delay_Time.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Redundant_Connection.java</url>
           <line>9</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Amount_of_Time_for_Binary_Tree_to_Be_Infected.java</url>
           <line>12</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Min_Cost_to_Connect_All_Points.java</url>
           <line>12</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Substring_With_Largest_Variance.java</url>
           <line>7</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
           <line>11</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
           <line>41</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorder_Data_in_Log_Files.java</url>
           <line>28</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Next_Greater_Element.java</url>
           <line>9</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Sum_of_Subarray_Ranges.java</url>
           <line>9</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Health_to_Beat_Game.java</url>
           <line>7</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Health_to_Beat_Game.java</url>
           <line>21</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Triangular_Sum_of_an_Array.java</url>
           <line>10</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Minimum_Number_of_Moves_to_Make_Palindrome.java</url>
           <line>7</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/The_Number_of_Weak_Characters_in_the_Game.java</url>
           <line>9</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Build_Binary_Expression_Tree_From_Infix_Expression.java</url>
           <line>29</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Most_Frequent_Even_Element.java</url>
           <line>11</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Increasing_Subsequence.java</url>
           <line>8</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/FourSum.java</url>
           <line>13</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/FourSum.java</url>
           <line>52</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Duplicate_Substring.java</url>
           <line>7</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Duplicate_Substring.java</url>
           <line>25</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Shortest_Path_with_Alternating_Colors.java</url>
           <line>9</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorganize_String.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorganize_String.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Reorganize_String.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Two_Sum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/MinimNumber_of_Swaps_to_Make_the_Binary_String_Alternating.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/MinimNumber_of_Swaps_to_Make_the_Binary_String_Alternating.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Mountain_in_Array.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Subsequence_Repeated_k_Times.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Original_Array_From_Doubled_Array.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Maximum_Length_of_Repeated_Subarray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_Days_Spent_Together.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_Days_Spent_Together.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_Days_Spent_Together.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Count_Days_Spent_Together.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Subsets.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Word_Search.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Palindrome_Partitioning.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Longest_Substring_with_At_Most_Two_Distinct_Characters.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Good_Days_to_Rob_the_Bank.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Good_Days_to_Rob_the_Bank.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Insert_Delete_GetRandom.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/test/test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/test/test.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode For Java/src/Depth_of_BST_Given_Insertion_Order.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Find_Median_from_Data_Stream.java</url>
           <line>28</line>
           <properties class="MedianFinder" method="addNum">
@@ -642,7 +776,7 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode For Java/src/Pascal_Triangle.java</url>
           <line>4</line>
           <properties class="Pascal_Triangle" method="generate">
