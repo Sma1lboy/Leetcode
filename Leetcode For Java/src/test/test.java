@@ -3,45 +3,55 @@ package test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
 
 /**
  * @author Jackson Chen
  * @version 1.0
  * @date 2022/9/17
  */
-public class test
-{
+public class test {
 
     public static void main(String[] args) {
-        List<Integer> integers = goodIndices(new int[]{388589,17165,726687,401298,600033,537254,301052,151069,399955}, 4);
-        System.out.println(integers);
-    }
+        //Scanner
+        Scanner input = new Scanner(System.in);
 
-    public static List<Integer> goodIndices(int[] nums, int k) {
-        int len = nums.length;
-        int[] nonincrease = new int[len];
-        for(int i = 1; i < len - k; i++) {
-            if(nums[i] > nums[i - 1]) {
-                nonincrease[i] = nonincrease[i - 1] != 0 ? nonincrease[i - 1] + 1: 0;
-            } else {
-                nonincrease[i] = nonincrease[i - 1] + 1;
-            }
-        }
-        int[] nondecrease = new int[len];
-        for(int i = len - 2; i >= k; i--) {
-            if(nums[i] > nums[i + 1]) {
-                nondecrease[i] = nondecrease[i + 1] != 0 ? nondecrease[i + 1] + 1 : 0;
-            } else {
-                nondecrease[i] = nondecrease[i + 1] + 1;
-            }
+        // //Ask for input
+        System.out.print("Enter an initial speed: ");
+        //double speed = 15.0;
+        double speed = input.nextDouble();
+
+        //Print outcome
+        //Angle and radians
+        double angle = 25.00;
+        double cosangle = Math.cos(Math.toRadians(angle));
+        double sinangle = Math.sin(Math.toRadians(angle));
+
+        //(Delete then) The sin and cos just for checking
+        //System.out.format("sin(angle) = %.2f%n", sinangle);
+        //System.out.format("cos(angle) = %.2f%n", cosangle);
+
+        //Calculate distance
+        double distance = 0;
+        distance = speed * (2 * speed * sinangle) / 9.8 * cosangle;
+
+        //print
+        System.out.format("At angle " + angle + " projectile travels %.2f meters %n", distance);
+
+        //loop
+        while (angle < 85) {
+            angle = angle + 5;
+
+            //angle and radians
+            cosangle = Math.cos(Math.toRadians(angle));
+            sinangle = Math.sin(Math.toRadians(angle));
+
+            //Calculate distance
+            distance = speed * (2 * speed * sinangle) / 9.8 * cosangle;
+
+            //print
+            System.out.format("At angle " + angle + " projectile travels %.2f meters %n", distance);
         }
 
-        List<Integer> list = new ArrayList<>();
-        for(int i = 0; i < len; i++) {
-            if(nonincrease[i] >= k && nondecrease[i] >= k) {
-                list.add(i);
-            }
-        }
-        return list;
     }
 }
